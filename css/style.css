@@ -1,1 +1,6 @@
 /*My css file*/
+/* body */
+body{
+    text-align: center;
+    background-color: rgb(red, green, blue);
+}
